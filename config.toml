@@ -1,4 +1,4 @@
-baseURL = "https://audioapostlerecords.com"
+baseURL = "http://audioapostlerecords.com"
 languageCode = "en-us"
 title = "No Good Music"
 theme = "ananke"
