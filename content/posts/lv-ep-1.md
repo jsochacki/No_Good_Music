@@ -1,9 +1,9 @@
 ---
 title: "LV Podcast #1: D.O. & Sysdemes"
-date: 2018-04-23T12:11:18-04:00
+date: 2018-01-19
 draft: false
 ---
-<p>Episode 1 Featuring D.O. and Sysdemes is up and ready!</p>
+Episode 1 Featuring D.O. and Sysdemes is up and ready!
 
 [soundcloud url="https://api.soundcloud.com/tracks/384845912" params="color=#ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" width="100%" height="300" iframe="true" /]
 
@@ -11,6 +11,6 @@ draft: false
 
 Check out their collaboration Interstel
 
-https://www.youtube.com/watch?v=b2qNjQjXAbs
+{{< youtube b2qNjQjXAbs >}}
 
 Stay Tuned!
