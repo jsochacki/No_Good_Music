@@ -1,8 +1,0 @@
----
-title: "Track of the Week: Back of a Taxi (Remix), Deadly Custard"
-date: 2018-04-23T12:11:18-04:00
-draft: false
----
-Amongst those that know him, The Deadly Power of Custard (to give him his full title ... at least for now!) has developed a reputation as something of a mad scientist in his approach to sound design. With this track, he's taken a vocal by singer and producer Karmel Jäger and embedded it into a sonic realm that is typically detailed and innovative. Over time, you too will learn to be excited to see what he comes out with next...
-
-[soundcloud url="https://api.soundcloud.com/tracks/393482148" params="color=#ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" width="100%" height="300" iframe="true" /]
