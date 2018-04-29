@@ -1,6 +1,6 @@
 ---
 title: "No Good Music: Homepage"
-featured_image: '/images/LNoGood.jpg'
-description: "Web site testing for now to see how to get this all up and running ;)."
+featured_image: '/images/site/aa-homepage.jpg'
+description: "Audio Apostle Collective, Since 2017"
 ---
-Hi all!!!  Right now this is just a shell that we are using as a guinea pig (is that how you spell that?? either way).  I will start to update it with actual content at some point very soon though so please make sure to check back in in the future!
+We are a collective of like-minded, passionate musicians and producers. Beyond just making music, we're working to support our group and other aspiring artists we meet with promotion, content creation, marketing and event organization. We like to talk and can be reached on any of the social links above ...
