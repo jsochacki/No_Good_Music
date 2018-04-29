@@ -24,8 +24,7 @@
                 {{ $.Scratch.Set "summary"
                   ((delimit (findRE "(<p.*?>.*?</p>\\s*)+" .Content) "[&hellip;] ") |
                   plainify |
-                  truncate (default 200 .Site.Params.summary_length)
-                  (default " &hellip;" .Site.Params.text.truncated ) |
+                  truncate (default 200 .Site.Params.summary_length) (default " &hellip;" .Site.Params.text.truncated ) |
                   replaceRE "&amp;" "&" | safeHTML) }}
                {{ end }}
               {{ $.Scratch.Get "summary" }}
