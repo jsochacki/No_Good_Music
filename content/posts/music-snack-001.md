@@ -1,9 +1,9 @@
 ---
 title: "Jan Koekepan's Musical Snacks #2"
 date: 2018-03-11
-featured_image: "/images/site/jan-koekepan-featured-image-v1.jpg"
+thumbnail: "/images/site/jan-koekepan-featured-image-v1.jpg"
 author: "SierraOskar"
-summary: "Another morsel of musical je ne sais quoi from psych-ambient voyager Jan Koekepan..."
+description: "Another morsel of musical je ne sais quoi from psych-ambient voyager Jan Koekepan..."
 draft: false
 ---
 
