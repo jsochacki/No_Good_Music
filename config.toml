@@ -87,16 +87,16 @@ canonifyURLs = true
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
 [params.intro]
-  header    = "Audio Apostles"
+  header    = "Since December, 2017"
 
   paragraph = "We are a collective of like-minded, passionate musicians and producers working hard to support each other..."
 
-  about     = "Since December, 2017"
+  about     = "Working hard to support each other..."
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
   [params.intro.pic]
-    src       = "/images/site/aa-logo-black-trans.png"
+    src       = "/images/site/aa-logo-black-trans-small.png"
     # Sets Image to be a cirlce
     circle    = false
     # Sets Image to be Future Imperfect's hexagon
