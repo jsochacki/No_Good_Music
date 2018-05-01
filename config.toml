@@ -98,10 +98,10 @@ canonifyURLs = true
   [params.intro.pic]
     src       = "/images/site/aa-logo-black-trans-small.png"
     # Sets Image to be a cirlce
-    circle    = false
+    circle    = true
     # Sets Image to be Future Imperfect's hexagon
-    imperfect = true
-    width     = ""
+    imperfect = false
+    width     = "55"
     alt       = "Audio Apostles"
 
 [params.postAmount]
