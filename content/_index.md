@@ -1,5 +1,5 @@
 ---
-title: "Audio Apostles Collective"
+title: "Latest News"
 featured_image: '/images/site/aa-homepage.jpg'
 description: "Audio Apostle Collective, Since 2017"
 ---
