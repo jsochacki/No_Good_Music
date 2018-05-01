@@ -12,3 +12,7 @@
   height: 100%;
   object-fit: cover;
 }
+
+.description {
+  color: gray;
+}

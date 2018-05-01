@@ -1,5 +1,6 @@
 ---
-title: "About Our Apostles"
+title: "About
+"
 description: "Audio Apostle Collective, Since 2017"
 featured_image: '/images/site/aa-homepage.jpg'
 ---
@@ -9,12 +10,12 @@ We are a collective of like-minded, passionate musicians and producers. Beyond j
 ## Our Apostles
 In no order of importance, the following make up the core of our collective:
 
-{{< figure src="https://sunserenade.files.wordpress.com/2018/01/sunprofile.jpg" title=".Sun Producer, Windsor ON" >}}
+{{< figure src="/images/artist_logos/sun_logo.jpg" title=".Sun Producer, Windsor ON" >}}
 
-{{< figure src="https://sunserenade.files.wordpress.com/2018/01/hanz2.jpg" title="Hanz Ford, Producer, Kingston ON" >}}
+{{< figure src="/images/artist_logos/hanz2.jpg" title="Hanz Ford, Producer, Kingston ON" >}}
 
-{{< figure src="https://sunserenade.files.wordpress.com/2018/01/sierraoskar_logo.jpg" title="SierraOskar, Producer, London UK" >}}
+{{< figure src="/images/artist_logos/sierraOskar_logo.jpg" title="SierraOskar, Producer, London UK" >}}
 
-{{< figure src="https://sunserenade.files.wordpress.com/2018/01/manuel-art-11.jpg" title="Manuel, Producer, Delray Beach FL" >}}
+{{< figure src="/images/artist_logos/manuel-art-11.jpg" title="Manuel, Producer, Delray Beach FL" >}}
 
-{{< figure src="https://sunserenade.files.wordpress.com/2018/02/downscale.jpg" title="Manuel, Producer, Phoenix AZ" >}}
+{{< figure src="/images/artist_logos/nogood_logo.jpg" title="No Good, Producer, Phoenix AZ" >}}

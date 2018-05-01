@@ -1,5 +1,5 @@
 ---
-title: "No Good Music: Homepage"
+title: "Audio Apostles Collective"
 featured_image: '/images/site/aa-homepage.jpg'
 description: "Audio Apostle Collective, Since 2017"
 ---
