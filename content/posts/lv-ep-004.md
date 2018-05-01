@@ -1,10 +1,15 @@
 ---
 title: "LV Podcast #4: Sole Vale"
 date: 2018-04-15
+thumbnail: "/images/site/limitless-background-large.jpg"
+author: "SierraOskar"
+description: "Find out more about enigmatic Canadian producer Sole Vale in episode 4 of Limitless Vibrations. Listen in to find out the origins of his name and how he gets those huge drum sounds..."
 draft: false
 ---
 
-Episode 4 featuring Sole Vale is ready for your listening pleasure... You'll find the show notes/ highlights below! [soundcloud url="https://api.soundcloud.com/tracks/429185874" params="color=#ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" width="100%" height="300" iframe="true" /]
+Episode 4 featuring Sole Vale is ready for your listening pleasure... You'll find the show notes/ highlights below!
+
+{{< soundCloudTrack trackNum="429185874" >}}
 
 ## Show Notes
 
@@ -46,7 +51,7 @@ For your convenience, here are the Sole Vale tracks Hanz ran through in this epi
 
 ### Track Breakdown: Immersed
 
-[soundcloud url="https://api.soundcloud.com/tracks/378960830" params="color=#ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" width="100%" height="166" iframe="true" /]
+{{< soundCloudTrack trackNum="378960830" >}}
 
 *   Sole Vale’s approach to starting tracks is similar across the board: he’ll start with a kick and build some basic drums around that. Usually, he will also create the drop first and then move to the other sections (intro, build-ups, breaks, etc.)
 *   To get his percussions tight, Sole Vale doesn't do anything particularly fancy. It's mainly careful application of EQ to ensure everything has its place and a touch of sidechain. He will sometimes group tracks so you can apply a compressor across all of the drums at once. The drums are generally left pretty dry but he will sometimes automate reverb around the drums to help make them flow more smoothly.

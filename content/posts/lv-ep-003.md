@@ -1,10 +1,15 @@
 ---
 title: "LV Podcast #3: Foxhunt"
 date: 2018-03-10
+thumbnail: "/images/site/limitless-background-large.jpg"
+author: "SierraOskar"
+description: "In episode three, Hanz Ford covers a lot of ground with UK-based producer Foxhunt. Listen now to find out what an Otomatone is and why not limiting masters can be a good idea..."
 draft: false
 ---
 
-Episode 3 featuring Foxhunt is ready for your listening pleasure... You'll find the show notes/ highlights below! [soundcloud url="https://api.soundcloud.com/tracks/411083964" params="color=#ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" width="100%" height="300" iframe="true" /]
+Episode 3 featuring Foxhunt is ready for your listening pleasure... You'll find the show notes/ highlights below!
+
+{{< soundCloudTrack trackNum="411083964" >}}
 
 ## Show Notes
 
@@ -61,7 +66,7 @@ Episode 3 featuring Foxhunt is ready for your listening pleasure... You'll find 
 
 ### Track Breakdown: The Undead
 
-[soundcloud url="https://api.soundcloud.com/tracks/343944750" params="color=#ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" width="100%" height="166" iframe="true" /]
+{{< soundCloudTrack trackNum="343944750" >}}
 
 *   The vocal sample was definitely a key basis for the track. Foxhunt enjoys sourcing really old spooky movies and this came from some (forgotten) 1950s horror movie. The sample was a lot longer but was cut down to avoid copyright issues.
 *   Once he had the sample, he designed the theme and tone of the track around it. He notes that getting such a dark feel in a track isn't about a specific key, or chords but is more about the overall sound (and atmosphere).

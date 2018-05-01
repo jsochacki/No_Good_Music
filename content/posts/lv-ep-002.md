@@ -1,17 +1,20 @@
 ---
 title: "LV Podcast #2: ASHE"
 date: 2018-02-06
+thumbnail: "/images/site/limitless-background-large.jpg"
+author: "SierraOskar"
+description: "Episode two of Limitless Vibrations sees Hanz Ford in conversation with fellow Canadian producer Ashe. Listen now to hear about the joys of working in coffee shops and his stonking track 'Little King'..."
 draft: false
 ---
 Episode 2 featuring Ashe is ready for your listening pleasure... You'll find the show notes/ highlights below!
 
-[soundcloud url="https://api.soundcloud.com/tracks/396159840" params="color=#ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" width="100%" height="300" iframe="true" /]
+{{< soundCloudTrack trackNum="396159840" >}}
 
 ## Show Notes
 
 ### Background & Overview
 
-[soundcloud url="https://api.soundcloud.com/users/362082" params="color=#ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" width="100%" height="450" iframe="true" /]
+{{< soundCloudUser userNum="362082" >}}
 
 *   [Ashe's official soundcloud page](https://soundcloud.com/asheofficial/tracks) includes all the tracks from Hanz's rundown.
 *   Ashe isn't sure which genre his music fits into but it's somewhere in the *melodic techno* area, or a combination of Techno/ Progressive/ mau5trap.
@@ -37,7 +40,7 @@ Episode 2 featuring Ashe is ready for your listening pleasure... You'll find the
 
 ### Track Breakdown: Little King
 
-[soundcloud url="https://api.soundcloud.com/tracks/355313141" params="color=#ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true" width="100%" height="166" iframe="true" /]
+{{< soundCloudTrack trackNum="355313141" >}}
 
 *   The track came out of listening to a lot of Robert Oaks and other "proper" melodic techno producers. Ashe really wanted to recreate that ethereal but hard-hitting techno sound.
 *   Ashe finished the track really quickly in about two full Sundays. He sent the track unfinished to deadmau5 for feedback, as a private link, expecting he'd have time to tidy up after. He was lucky that deadmau5 skipped over the unfinished parts but he liked it so much he reposted it as is, which requiring some frantic clean-up behind the scenes!
