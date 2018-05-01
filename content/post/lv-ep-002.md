@@ -1,15 +1,15 @@
-+++
-author = "SierraOskar"
-categories = ["Limitless Vibrations"]
-tags = ["podcast", "melodic techno", "Ashe"]
-date = "2018-02-06"
-description = "Episode two of Limitless Vibrations sees Hanz Ford in conversation with fellow Canadian producer Ashe. Listen now to hear about the joys of working in coffee shops and his stonking track 'Little King'..."
-featured = "images/site/limitless-background-large.jpg"
-featuredalt = "Limitless Vibrations, Episode 2"
-linktitle = ""
-title = "LV Podcast #2: ASHE"
-type = "post"
-+++
+---
+author: "SierraOskar"
+categories: ["Limitless Vibrations"]
+tags: ["podcast", "melodic techno", "techno", "progressive", "Ashe"]
+date: "2018-02-06"
+description: "Episode two of Limitless Vibrations sees Hanz Ford in conversation with fellow Canadian producer Ashe. Listen now to hear about the joys of working in coffee shops and his stonking track 'Little King'..."
+featured: "images/site/limitless-background-large.jpg"
+featuredalt: "Limitless Vibrations, Episode 2"
+linktitle: ""
+title: "LV Podcast #2: ASHE"
+type: "post"
+---
 
 Episode 2 featuring Ashe is ready for your listening pleasure... You'll find the show notes/ highlights below!
 
