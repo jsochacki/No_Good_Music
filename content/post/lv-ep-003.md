@@ -4,8 +4,9 @@ categories: ["Limitless Vibrations"]
 tags: ["podcast", "complextro", "electro house", "Foxhunt"]
 date: "2018-03-10"
 description: "In episode three, Hanz Ford covers a lot of ground with UK-based producer Foxhunt. Listen now to find out what an Otomatone is and why not limiting masters can be a good idea..."
-featured: "images/site/limitless-background-large.jpg"
+featured: "limitless-background-large.jpg"
 featuredalt: "Limitless Vibrations, Episode 3"
+featuredpath: "/images/site/"
 linktitle: ""
 title: "LV Podcast #3: Foxhunt"
 type: "post"

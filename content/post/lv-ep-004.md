@@ -4,8 +4,9 @@ categories: ["Limitless Vibrations"]
 tags: ["podcast", "techno", "Sole Vale"]
 date: "2018-04-15"
 description: "Find out more about enigmatic Canadian producer Sole Vale in episode 4 of Limitless Vibrations. Listen in to find out the origins of his name and how he gets those huge drum sounds..."
-featured: "images/site/limitless-background-large.jpg"
+featured: "limitless-background-large.jpg"
 featuredalt: "Limitless Vibrations, Episode 4"
+featuredpath: "/images/site/"
 linktitle: ""
 title: "LV Podcast #4: Sole Vale"
 type: "post"

@@ -4,8 +4,9 @@ categories: ["Musical Snacks"]
 tags: ["ambient", "psychedelic", "jan koekepan"]
 date: "2018-04-14"
 description: "Another morsel of musical je ne sais quoi from psych-ambient voyager Jan Koekepan..."
-featured: "/images/site/jan-koekepan-featured-image-v1.jpg"
+featured: "jan-koekepan-featured-image-v1.jpg"
 featuredalt: "Musical Snack 6"
+featuredpath: "/images/articles/musical-snack/"
 linktitle: ""
 title: "Jan Koekepan's Musical Snacks #6"
 type: "post"
