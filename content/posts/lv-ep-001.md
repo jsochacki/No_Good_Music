@@ -8,9 +8,9 @@ draft: false
 ---
 Episode 1 Featuring D.O. and Sysdemes is up and ready!
 
-{{< soundCloud trackNum="384845912" >}}
+{{< soundCloudTrack trackNum="384845912" >}}
 
-{{< soundCloud trackNum="363182906" >}}
+{{< soundCloudTrack trackNum="363182906" >}}
 
 Check out their collaboration Interstel
 
